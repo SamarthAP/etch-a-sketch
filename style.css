@@ -6,10 +6,17 @@
     border-left: 1px solid black;
 }
 
-.item {
-    background-color: aqua;
+.item1, .item2 {
     width: 30pt;
     height: 30pt;
     border-bottom: 1px solid black;
     border-right: 1px solid black;
+}
+
+.item1 {
+    background-color: aqua;
+}
+
+.item2 {
+    background-color: black;
 }
