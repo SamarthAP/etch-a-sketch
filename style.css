@@ -1,0 +1,15 @@
+.container {
+    display: inline-grid;
+    grid-gap: 0px;
+    grid-template-columns: repeat(16, auto);
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.item {
+    background-color: aqua;
+    width: 30pt;
+    height: 30pt;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
